@@ -1,4 +1,4 @@
-![exp2](https://github.com/user-attachments/assets/bb3c9148-3cdd-4029-8aab-97d24129ea46)# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -43,7 +43,6 @@ assign f1=((~b&~c)|(~a&b&d)|(a&b&~c));
 assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 ```
-
 Developed by:Safira barveen s RegisterNumber:24900731
 
 
