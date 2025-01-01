@@ -62,11 +62,7 @@ Uploading exp2.jpg…]()
 
 
 **Timing Diagram**
-![Screenshot 2024-10-22 114356](https://github.com/user-attachments/assets/afe644b7-2057-4cdc-9663-eba072082e00)
-
-
-
-**Result:**
+![image](https://github.com/user-attachments/assets/9d44fbc1-3161-42f6-b43e-905f20171b36)
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
